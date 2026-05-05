@@ -1,8 +1,4 @@
 # Hi, I'm Punn 👋
-
-I am curious about how companies process large amounts of data in realtime — so I started building the infrastructure 
-layer myself to find out.
-
 B.S. Engineering Physics (CS minor) @ UIUC | MS Computer Science @ CU Boulder  
 Languages: C++, Go, Python  
 
